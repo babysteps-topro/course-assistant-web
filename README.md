@@ -52,20 +52,3 @@ npm run build
 ```
 The built files will be in the dist directory.
 
-
-## Project Structure
-
-```
-project-root/
-├── src/
-│   ├── components/
-│   │   ├── Chat/
-│   │   └── ...
-│   ├── services/
-│   │   └── aws/
-│   ├── App.jsx
-│   └── main.jsx
-├── public/
-├── vite.config.js
-└── package.json
-```
