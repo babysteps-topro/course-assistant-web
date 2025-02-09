@@ -1,7 +1,11 @@
 # AWS Bedrock Agent Chatbot
 
 A React-based chatbot client that interfaces with AWS Bedrock Agent through AWS Lambda, built with Vite and React-chatbotify.
+![borislam.com](https://blog.bbsteps.net/blogimg/bedrock-react.jpg)
 
+[Detail Instructions for this tuturial: PART 1](https://www.borislam.com/2025/01/bedrock-rag-pinecone.html)
+
+[Detail Instructions for this tuturial: PART 2](https://www.borislam.com/2025/01/bedrock-react-lambda.html)
 ## Overview
 
 This project implements a web-based chatbot interface that leverages AWS Bedrock's foundation models for intelligent conversations. The application uses React-chatbotify for the UI components and communicates with AWS services through Lambda functions.
