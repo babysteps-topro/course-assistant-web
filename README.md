@@ -19,13 +19,14 @@ This project implements a web-based chatbot interface that leverages AWS Bedrock
 
 ## Prerequisites
 
-- Node.js (v16 or later)
+- Node.js
 - npm or yarn
 - AWS account with appropriate permissions
 - AWS CLI configured locally
 - Required AWS services set up:
+  - AWS Bedrock Agent (Set up in PART 1)
   - AWS Lambda function
-  - AWS Bedrock Agent
+  - AWS S3 bucket (for static website hosting)
   - API Gateway (for Lambda integration)
 
 ## Installation
